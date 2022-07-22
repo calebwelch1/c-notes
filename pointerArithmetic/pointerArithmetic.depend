@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637013068 source:c:\users\germa\documents\code\c\pointerarithmetic\main.c
+	<stdio.h>
+	<stdlib.h>
+

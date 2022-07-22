@@ -1,0 +1,12 @@
+Build started at 2021-11-14T13:13:28.316365
+Main binary: C:\Program Files\Meson\meson.exe
+Build Options: 
+Python system: Windows
+The Meson build system
+Version: 0.60.1
+Source dir: C:\Users\germa\Documents\code\c\ifStatements
+Build dir: C:\Users\germa\Documents\code\c\ifStatements\bin
+Build type: native build
+Project name: ifStatements
+Project version: undefined
+Activating VS 15.9.40

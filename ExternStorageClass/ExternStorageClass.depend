@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1636117621 source:c:\users\germa\documents\code\externstorageclass\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1636117592 source:c:\users\germa\documents\code\externstorageclass\write.c
+	<stdio.h>
+
